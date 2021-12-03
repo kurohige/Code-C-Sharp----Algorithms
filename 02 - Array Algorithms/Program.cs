@@ -1,5 +1,6 @@
 ﻿/*
     ~~~~ Array Algorithms ~~~~~~~
+    Completed by Jose O Hidalgo on 12/04/2021
 */
 using System;
 using System.Linq;

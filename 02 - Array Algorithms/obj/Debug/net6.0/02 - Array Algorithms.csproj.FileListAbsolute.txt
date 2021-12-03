@@ -1,0 +1,15 @@
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\bin\Debug\net6.0\02 - Array Algorithms.exe
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\bin\Debug\net6.0\02 - Array Algorithms.deps.json
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\bin\Debug\net6.0\02 - Array Algorithms.runtimeconfig.json
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\bin\Debug\net6.0\02 - Array Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\bin\Debug\net6.0\ref\02 - Array Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\bin\Debug\net6.0\02 - Array Algorithms.pdb
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\obj\Debug\net6.0\02 - Array Algorithms.csproj.AssemblyReference.cache
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\obj\Debug\net6.0\02 - Array Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\obj\Debug\net6.0\02 - Array Algorithms.AssemblyInfoInputs.cache
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\obj\Debug\net6.0\02 - Array Algorithms.AssemblyInfo.cs
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\obj\Debug\net6.0\02 - Array Algorithms.csproj.CoreCompileInputs.cache
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\obj\Debug\net6.0\02 - Array Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\obj\Debug\net6.0\ref\02 - Array Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\obj\Debug\net6.0\02 - Array Algorithms.pdb
+D:\CSharp Proj\CodeAlgorithms\02 - Array Algorithms\obj\Debug\net6.0\02 - Array Algorithms.genruntimeconfig.cache

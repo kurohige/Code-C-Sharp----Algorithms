@@ -1,0 +1,15 @@
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\bin\Debug\net6.0\03 - Linked List Algorihms.exe
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\bin\Debug\net6.0\03 - Linked List Algorihms.deps.json
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\bin\Debug\net6.0\03 - Linked List Algorihms.runtimeconfig.json
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\bin\Debug\net6.0\03 - Linked List Algorihms.dll
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\bin\Debug\net6.0\ref\03 - Linked List Algorihms.dll
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\bin\Debug\net6.0\03 - Linked List Algorihms.pdb
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\obj\Debug\net6.0\03 - Linked List Algorihms.csproj.AssemblyReference.cache
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\obj\Debug\net6.0\03 - Linked List Algorihms.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\obj\Debug\net6.0\03 - Linked List Algorihms.AssemblyInfoInputs.cache
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\obj\Debug\net6.0\03 - Linked List Algorihms.AssemblyInfo.cs
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\obj\Debug\net6.0\03 - Linked List Algorihms.csproj.CoreCompileInputs.cache
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\obj\Debug\net6.0\03 - Linked List Algorihms.dll
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\obj\Debug\net6.0\ref\03 - Linked List Algorihms.dll
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\obj\Debug\net6.0\03 - Linked List Algorihms.pdb
+D:\CSharp Proj\CodeAlgorithms\03 - Linked List Algorihms\obj\Debug\net6.0\03 - Linked List Algorihms.genruntimeconfig.cache

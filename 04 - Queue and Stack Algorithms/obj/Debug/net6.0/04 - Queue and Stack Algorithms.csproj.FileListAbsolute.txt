@@ -1,0 +1,15 @@
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\obj\Debug\net6.0\04 - Queue and Stack Algorithms.csproj.AssemblyReference.cache
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\obj\Debug\net6.0\04 - Queue and Stack Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\obj\Debug\net6.0\04 - Queue and Stack Algorithms.AssemblyInfoInputs.cache
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\obj\Debug\net6.0\04 - Queue and Stack Algorithms.AssemblyInfo.cs
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\obj\Debug\net6.0\04 - Queue and Stack Algorithms.csproj.CoreCompileInputs.cache
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\bin\Debug\net6.0\04 - Queue and Stack Algorithms.exe
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\bin\Debug\net6.0\04 - Queue and Stack Algorithms.deps.json
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\bin\Debug\net6.0\04 - Queue and Stack Algorithms.runtimeconfig.json
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\bin\Debug\net6.0\04 - Queue and Stack Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\bin\Debug\net6.0\ref\04 - Queue and Stack Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\bin\Debug\net6.0\04 - Queue and Stack Algorithms.pdb
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\obj\Debug\net6.0\04 - Queue and Stack Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\obj\Debug\net6.0\ref\04 - Queue and Stack Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\obj\Debug\net6.0\04 - Queue and Stack Algorithms.pdb
+D:\CSharp Proj\CodeAlgorithms\04 - Queue and Stack Algorithms\obj\Debug\net6.0\04 - Queue and Stack Algorithms.genruntimeconfig.cache

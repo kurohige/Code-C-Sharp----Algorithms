@@ -1,0 +1,15 @@
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\bin\Debug\net6.0\06 - Tree Algorithms.exe
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\bin\Debug\net6.0\06 - Tree Algorithms.deps.json
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\bin\Debug\net6.0\06 - Tree Algorithms.runtimeconfig.json
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\bin\Debug\net6.0\06 - Tree Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\bin\Debug\net6.0\ref\06 - Tree Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\bin\Debug\net6.0\06 - Tree Algorithms.pdb
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\obj\Debug\net6.0\06 - Tree Algorithms.csproj.AssemblyReference.cache
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\obj\Debug\net6.0\06 - Tree Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\obj\Debug\net6.0\06 - Tree Algorithms.AssemblyInfoInputs.cache
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\obj\Debug\net6.0\06 - Tree Algorithms.AssemblyInfo.cs
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\obj\Debug\net6.0\06 - Tree Algorithms.csproj.CoreCompileInputs.cache
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\obj\Debug\net6.0\06 - Tree Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\obj\Debug\net6.0\ref\06 - Tree Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\obj\Debug\net6.0\06 - Tree Algorithms.pdb
+D:\CSharp Proj\CodeAlgorithms\06 - Tree Algorithms\obj\Debug\net6.0\06 - Tree Algorithms.genruntimeconfig.cache

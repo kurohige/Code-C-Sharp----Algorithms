@@ -1,0 +1,15 @@
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\obj\Debug\net6.0\05 - Hash-Based Struct Algorithms.csproj.AssemblyReference.cache
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\obj\Debug\net6.0\05 - Hash-Based Struct Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\obj\Debug\net6.0\05 - Hash-Based Struct Algorithms.AssemblyInfoInputs.cache
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\obj\Debug\net6.0\05 - Hash-Based Struct Algorithms.AssemblyInfo.cs
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\obj\Debug\net6.0\05 - Hash-Based Struct Algorithms.csproj.CoreCompileInputs.cache
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\bin\Debug\net6.0\05 - Hash-Based Struct Algorithms.exe
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\bin\Debug\net6.0\05 - Hash-Based Struct Algorithms.deps.json
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\bin\Debug\net6.0\05 - Hash-Based Struct Algorithms.runtimeconfig.json
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\bin\Debug\net6.0\05 - Hash-Based Struct Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\bin\Debug\net6.0\ref\05 - Hash-Based Struct Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\bin\Debug\net6.0\05 - Hash-Based Struct Algorithms.pdb
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\obj\Debug\net6.0\05 - Hash-Based Struct Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\obj\Debug\net6.0\ref\05 - Hash-Based Struct Algorithms.dll
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\obj\Debug\net6.0\05 - Hash-Based Struct Algorithms.pdb
+D:\CSharp Proj\CodeAlgorithms\05 - Hash-Based Struct Algorithms\obj\Debug\net6.0\05 - Hash-Based Struct Algorithms.genruntimeconfig.cache
